@@ -126,7 +126,7 @@ Terima kasih khusus kepada:
 
 **Rasakan keindahan batik melalui teknologi**
 
-[![Coba Sekarang](https://img.shields.io/badge/🚀-Coba%20Ragam%20Batik%20Sekarang-success?style=for-the-badge&logo=rocket)](https://ragambatik.app)
+[![Coba Sekarang](https://img.shields.io/badge/🚀-Coba%20Ragam%20Batik%20Sekarang-success?style=for-the-badge&logo=rocket)](https://ragam-batik.netlify.app/)
 
 ---
 
