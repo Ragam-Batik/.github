@@ -83,8 +83,11 @@ dengan menggunakan email tersebut, anda sudah bisa mulai menjelajah perjalanan m
 - **Sebarkan Budaya:** Bagikan platform ini dan ajak orang lain untuk ikut melestarikan batik
 
 ## 📬 Hubungi Kami  
+
 Untuk pertanyaan, saran, atau kerja sama:  
+
 📧 [support@ragambatik.id](mailto:support@ragambatik.id)
+
 ---
 ## 👥 Our Team
 
